@@ -1,2 +1,3 @@
 # PythonCalismalarim
 Python ogrenme yolculugum...
+My python learning programs and scripts.
